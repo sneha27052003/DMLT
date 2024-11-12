@@ -1,0 +1,14 @@
+Frequent Itemsets (min support = 2):
+{ I1 }, Support Count: 6
+{ I2 }, Support Count: 7
+{ I3 }, Support Count: 6
+{ I4 }, Support Count: 2
+{ I5 }, Support Count: 2
+{ I1, I2 }, Support Count: 4
+{ I1, I3 }, Support Count: 4
+{ I2, I3 }, Support Count: 4
+{ I1, I5 }, Support Count: 2
+{ I2, I4 }, Support Count: 2
+{ I2, I5 }, Support Count: 2
+{ I1, I2, I3 }, Support Count: 2
+{ I1, I2, I5 }, Support Count: 2

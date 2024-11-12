@@ -1,0 +1,21 @@
+Itemset Support Counts (min support = 2):
+
+Itemsets of size 1:
+{ I2 }, Support Count: 4
+{ "I1 }, Support Count: 6
+{ "I2 }, Support Count: 3
+{ I4" }, Support Count: 2
+{ I5" }, Support Count: 2
+{ I3" }, Support Count: 5
+
+Itemsets of size 2:
+{ I5" "I1 }, Support Count: 2
+{ I3" "I2 }, Support Count: 2
+{ I3" "I1 }, Support Count: 3
+{ I5" I2 }, Support Count: 2
+{ I2 "I1 }, Support Count: 4
+
+Itemsets of size 3:
+{ I5" I2 "I1 }, Support Count: 2
+
+No itemsets of size 4 meet the minimum support threshold.
